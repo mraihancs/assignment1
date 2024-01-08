@@ -1,0 +1,127 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {}
+
+.myimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
+
+.headtext {}
+
+.mytext {
+
+    margin-top: -26%;
+    font-size: 34px;
+    text-align: center;
+
+}
+
+.mytext1 {
+
+
+
+    font-size: 60px;
+    text-align: center;
+
+
+}
+
+.mytext2 {
+
+
+
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.off {
+    margin-top: 20%;
+    font-size: 40px;
+    text-align: center;
+}
+
+.dealsinfo {
+    font-size: 20px;
+    color: orangered;
+    text-align: center;
+}
+
+.dealsinfo2 {
+    font-size: 25px;
+    padding-top: 4px;
+    text-align: center;
+}
+
+.imagea {
+    margin-top: 80px;
+}
+
+.imaget {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.boxcontainere{
+
+}
+
+.box1{
+    margin-left: 11%;
+   
+    display: inline-block;
+}
+
+.box1:hover{
+
+}
+.box2:hover{
+    
+}
+.box3:hover{
+   
+}
+
+
+
+
+.myimgg:hover{
+    border: 10px solid rgb(250, 253, 69);
+    border-radius: 25px;
+    padding: 10px;
+    cursor: pointer;
+ 
+   
+   
+   
+   
+
+}
+
+.myimggg:hover{
+    border: 10px solid rgb(112, 238, 173);
+    border-radius: 25px;
+    padding: 10px;
+    cursor: pointer;
+    
+   
+}
+
+.myimgggg:hover{
+    border: 10px solid rgb(172, 172, 126);
+    border-radius: 25px;
+    padding: 10px;
+    cursor: pointer;
+   
+   
+}
+
